@@ -3,7 +3,6 @@
 ### purpose
 generating images like this:  
 
-![sample1](https://secure.meetupstatic.com/photos/event/1/d/b/1/600_463327601.jpeg)
 ![sample2](https://secure.meetupstatic.com/photos/event/b/1/c/c/600_463125516.jpeg)
 ![sample3](https://secure.meetupstatic.com/photos/event/8/6/7/b/600_463174427.jpeg)
 
